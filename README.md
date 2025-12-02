@@ -52,3 +52,5 @@ Install (example):
 
 ```bash
 pip install ultralytics opencv-python numpy PyQt5
+```
+<img width="2560" height="1400" alt="python_SykqiDaDue" src="https://github.com/user-attachments/assets/c4a34e47-3aec-4716-b12e-6c5d3065fdde" />
