@@ -10,8 +10,6 @@ It:
 - Overlays boxes, case IDs, slot indices, and tracker state on the video.
 - Exports a full-resolution overlay video (perfect for demos / YouTube).
 
-https://github.com/yourname/dond-directional-tracker  ← (replace with your repo)
-
 ---
 
 ## Features
