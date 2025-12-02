@@ -44,7 +44,7 @@ from PyQt5 import QtWidgets, QtCore, QtGui
 
 
 # ----------------- CONFIG -----------------
-MODEL_PATH = r"runs/detect/train_annotated/weights/best.pt"
+MODEL_PATH = r"model/yolov12n.pt"
 VIDEO_IN = r"Assets/DOND_RAW_SHUFFLE_01_BW.mp4"
 
 # Initial 4x4 grid of slot centers in *image* coordinates
@@ -1298,3 +1298,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
