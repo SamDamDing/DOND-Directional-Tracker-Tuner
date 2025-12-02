@@ -17,7 +17,7 @@ https://github.com/yourname/dond-directional-tracker  ← (replace with your rep
 ## Features
 
 - **YOLO-based detections**
-  - Uses a trained Ultralytics YOLO model (`best.pt`) to detect cases.
+  - Uses a trained Ultralytics YOLO model (`yolov12n.pt`) to detect cases.
   - Filters detections to a configurable panel region.
 
 - **Directional multi-target tracking**
